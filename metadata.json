@@ -1,0 +1,7 @@
+{
+  "name": "منظومة تقييم الحوكمة والوقاية من الفساد",
+  "description": "منصة رقمية لجمع استبيانات موظفي المؤسسة بسرية وموضوعية وتحليل مؤشرات الحوكمة ولوحة قيادة تنفيذية مع خطط العمل التصحيحية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
